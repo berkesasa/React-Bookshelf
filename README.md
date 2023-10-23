@@ -2,7 +2,7 @@
 # React Bookshelf
 
 
-This project allows you to create a personal library and edit the name of these books, add and delete books. The technologies used in the project are React and Tailwind CSS.
+This project allows you to create a personal library and edit the name of these books, add and delete books. The technologies used in the project are React.
 
 
 ## Table of Contents
